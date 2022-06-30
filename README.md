@@ -6,6 +6,6 @@ This Website is my first javascript project
 
 <table style="width:100%">
   <tr>
-    <th><img src="Images/ssDice.png" /></th>
+    <th><img src="images/ssDice.png" /></th>
   </tr>
  </table>
